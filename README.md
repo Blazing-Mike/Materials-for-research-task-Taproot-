@@ -16,6 +16,8 @@ https://bitcoinmagazine.com/culture/the-power-of-schnorr-the-signature-algorithm
 
 ## Videos
 
+https://youtu.be/f3CFUbeehc8
+
 https://youtu.be/_dqDP1qZHd4
 
 https://youtu.be/BXkEU2sj6jg
