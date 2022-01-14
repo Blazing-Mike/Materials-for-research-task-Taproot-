@@ -10,6 +10,10 @@ https://academy.binance.com/en/articles/what-is-taproot-and-how-it-will-benefit-
 
 https://academy.binance.com/en/articles/what-do-schnorr-signatures-mean-for-bitcoin
 
+https://bitcoincore.org/en/2017/03/23/schnorr-signature-aggregation/
+
+https://bitcoinmagazine.com/culture/the-power-of-schnorr-the-signature-algorithm-to-increase-bitcoin-s-scale-and-privacy-1460642496
+
 ## Videos
 
 https://youtu.be/_dqDP1qZHd4
